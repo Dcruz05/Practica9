@@ -18,6 +18,7 @@ app.get('/prueba', (req, res) => {
     </head>
     <body>
         <h1>Test</h1>
+        Esto es una prueba
     </body>
     </html>`);
 });
